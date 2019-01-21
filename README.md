@@ -8,9 +8,11 @@ network is implemented is the third notebook. Finally a deep neural network id b
 
 ## Ipython notebooks
 
-1. [Logistic Regression as a Neural Network](https://github.com/imayank/Building-neural-Networks-from-Scratch/blob/master/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v5.ipynb)
-1. [Planar data classification with one hidden layer](https://github.com/imayank/Building-neural-Networks-from-Scratch/blob/master/Week%203/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar%20data%20classification%20with%20one%20hidden%20layer%20v5.ipynb)
-1. [Building Deep Neural Network](https://github.com/imayank/Building-neural-Networks-from-Scratch/blob/master/Week%204/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step%20v8.ipynb)
-1. [Deep Neural Network - Application](https://github.com/imayank/Building-neural-Networks-from-Scratch/blob/master/Week%204/Deep%20Neural%20Network%20Application:%20Image%20Classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
+        
+
+1. [Logistic Regression as a Neural Network](Building_neural_nets/LogisticRegressionAsNeuralNetwork/LogisticRegression.ipynb)
+1. [Planar data classification with one hidden layer](Building_neural_nets/PlanarDataClassificationWithOneHiddenLayer/PlanarDataClassificationWithOneHiddenLayer.ipynb)
+1. [Building Deep Neural Network](Building_neural_nets/BuildingDeepNeuralNetwork/BuildingDeepNeuralNetwork.ipynb)
+1. [Deep Neural Network - Application](Building_neural_nets/DeepNeuralNetworkApplication/DeepNeuralNetworkApplication.ipynb)
 
 Follow the above links for the respective implementaions.
