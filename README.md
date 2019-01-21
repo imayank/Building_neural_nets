@@ -10,9 +10,9 @@ network is implemented is the third notebook. Finally a deep neural network id b
 
         
 
-1. [Logistic Regression as a Neural Network](Building_neural_nets/LogisticRegressionAsNeuralNetwork/LogisticRegression.ipynb)
-1. [Planar data classification with one hidden layer](Building_neural_nets/PlanarDataClassificationWithOneHiddenLayer/PlanarDataClassificationWithOneHiddenLayer.ipynb)
-1. [Building Deep Neural Network](Building_neural_nets/BuildingDeepNeuralNetwork/BuildingDeepNeuralNetwork.ipynb)
-1. [Deep Neural Network - Application](Building_neural_nets/DeepNeuralNetworkApplication/DeepNeuralNetworkApplication.ipynb)
+1. [Logistic Regression as a Neural Network](LogisticRegressionAsNeuralNetwork/LogisticRegression.ipynb)
+1. [Planar data classification with one hidden layer](PlanarDataClassificationWithOneHiddenLayer/PlanarDataClassificationWithOneHiddenLayer.ipynb)
+1. [Building Deep Neural Network](BuildingDeepNeuralNetwork/BuildingDeepNeuralNetwork.ipynb)
+1. [Deep Neural Network - Application](DeepNeuralNetworkApplication/DeepNeuralNetworkApplication.ipynb)
 
 Follow the above links for the respective implementaions.
